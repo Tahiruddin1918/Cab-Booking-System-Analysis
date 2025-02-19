@@ -32,7 +32,7 @@ The data used in this analysis is **dummy data** and does not represent real-wor
 ## 📢 How to Use This Repository
 1. **Read the `README.md`** to understand the project scope.
 2. **Check the `report.pdf`** for a detailed breakdown of findings.
-3. **Explore `queries.sql`** to see the SQL statements used for analysis.
+3. **Explore `SQL Files`** to see the SQL statements used for analysis.
 
 ---
 **📧 Feel free to connect if you have any questions or feedback!** 🚀
